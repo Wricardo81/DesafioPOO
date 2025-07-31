@@ -28,6 +28,23 @@ DesafioPOO/
 - C#
 - VS Code ou Visual Studio
 
+  📲 Demonstração
+Ao rodar o programa, o terminal exibirá a simulação de funcionamento dos celulares Nokia e iPhone, como chamadas e instalação de apps.
+
+🧠 Conceitos Abordados
+Herança e Abstração
+
+Classes e Métodos
+
+Polimorfismo (sobrescrita de métodos)
+
+Organização em pastas (Models)
+
+📚 Créditos
+Projeto desenvolvido durante a Trilha .NET da Digital Innovation One (DIO) 🚀
+
+Feito com 💻 por Ricardo Santos — github.com/Wricardo81
+
 ## 📦 Como executar o projeto
 
 1. Clone este repositório:
